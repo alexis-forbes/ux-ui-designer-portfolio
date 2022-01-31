@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-tools",
+    "title": "The Problem",
+    "content": "In the world, cardiovascular diseases are the deadliest in the world, since they will claim 17.3 million lives annually. The percentage of people who say they use the bicycle with some frequency in Spain went from 41.3% in 2018 to 60.7% in 2021. An example of them is that in Spain outdoor sports are booming after the pandemic, as it is considered a safe activity against Covid 19. Therefore, the possibility of having an accident far from the urban area increases."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-id",
+    "title": "My Role",
+    "content": "Design an application that improves the speed of assistance in the event of any accident or emergency and that helps improve the health and well-being of citizens through exercises or games and information on their habits."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-target",
+    "title": "The Goal",
+    "content": "UX designer leading the design of the responsive website and app from conception to delivery."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-menu",
+    "title": "Responsabilities",
+    "content": "Conducting interviews, paper and digital wireframing, low and high-fidelity prototyping, conducting usability studies, accounting for accessibility, iterating on designs, determining information architecture, and responsive design."
+  }
+]

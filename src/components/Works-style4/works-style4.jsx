@@ -169,12 +169,12 @@ const WorksStyle4 = () => {
             >
               <div className="item-img">
                 <div className="cont">
-                  <h6>LIVE HELP</h6>
-                  <p>UX / UI creative SmartWatch & Mobile app design for exercise and distress help.</p>
+                  <h6>ANIMATED ILLUSTRATIONS</h6>
+                  <p>Work in progress.</p>
                 </div>
-                <Link href="/project-details2/project-details2-dark">
+                <Link href="">
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/3.jpg" alt="image" />
+                    <img src="https://media.giphy.com/media/ekpxga8QRJVFUBxQeL/giphy.gif" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -183,10 +183,10 @@ const WorksStyle4 = () => {
                     <a href="#0">App</a>
                   </span>
                   <span>
-                    <a href="#0">Fitnes</a>
+                    <a href="#0">Animations</a>
                   </span>
                   <span>
-                    <a href="#0">Creative</a>
+                    <a href="#0">Interactive</a>
                   </span>
                 </div>
               </div>

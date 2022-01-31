@@ -1,6 +1,6 @@
 import React from "react";
 
-const ProjectDescriptionLiveHelp = ({ projectDescriptionDataLiveHelp }) => {
+const ProjectDescriptionLiveHelpDesigns = ({ projectDescriptionDataLiveHelp }) => {
     return (
         <section className="intro-section section-padding">
             <div className="container">
@@ -8,13 +8,13 @@ const ProjectDescriptionLiveHelp = ({ projectDescriptionDataLiveHelp }) => {
                     <div className="col-lg-3 col-lg-6">
                         <div className="htit">
                             <h4>
-                                <span>02 </span> User Research Summary:
+                                <span>03 </span> Responsive Designs:
                             </h4>
                         </div>
                     </div>
                     <div className="col-lg-11 offset-md-1 col-lg-8">
                         <div className="text js-scroll__content">
-                            <p className="extra-text">{projectDescriptionDataLiveHelp.content}</p>
+                            <p className="extra-text">{projectDescriptionDataLiveHelp.extracontent}</p>
                         </div>
                     </div>
                 </div>
@@ -23,4 +23,4 @@ const ProjectDescriptionLiveHelp = ({ projectDescriptionDataLiveHelp }) => {
     );
 };
 
-export default ProjectDescriptionLiveHelp;
+export default ProjectDescriptionLiveHelpDesigns;

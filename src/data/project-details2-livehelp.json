@@ -36,23 +36,15 @@
     }
   ],
   "intro": {
-    "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part.",
+    "content": "LIVEHELP is an application focused on helping and assisting people. The application helps the well-being and health of users who need to be located and attended to in case of accidents. The main target users of LIVEHELP include people who normally practice risky sports such as hiking, climbing, cycling, the elderly who live alone, people with heart disease. Those who would like to feel safer with immediate and personalized assistance in the event of an accident, such as a reminder to take medications, step counter, calories, heart rate, as well as including a section with exercises / physical games and mental agility.",
     "spmList": [
       {
         "id": 1,
-        "name": "Aenean sollicitudin"
+        "name": "Project Duration:"
       },
       {
         "id": 2,
-        "name": "lorem quis bibendum auctor"
-      },
-      {
-        "id": 31,
-        "name": "nisi elit conseq uat ipsum"
-      },
-      {
-        "id": 4,
-        "name": "nec sagittis sem nibh id elit"
+        "name": "July 2021 to January 2022"
       }
     ]
   },
@@ -64,6 +56,18 @@
     "/img/portfolio/project2/7.jpg"
   ],
   "description": {
-    "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part."
+    "content": "I used data from LIVEHELP on the number of deaths from emergencies or unattended accidents quickly and efficiently to develop interview questions, which were then used to conduct user interviews. Most interview participants reported feeling bad about the number of accident deaths and cardiovascular disease. The feedback received through the research made it very clear that users would be open to improving their well-being if they had access to an easy-to-use tool from which to obtain information on their daily activity and calorie intake. And that they would feel safer when practicing any sport away from the city if they were sending a location signal."
+  },
+  "extra": {
+    "extracontent": "Layouts for screen size variation for mobile devices. I optimized the designs to adapt to the specific needs of the user of each device and screen size."
+  },
+  "extrabefore": {
+    "extracontent": "Based on insights from usability studies, I applied design changes such as providing a clear section from the home screen to activate fall detection, geolocation of your family, medication reminders, your habits and some exercises to exercise both body and mind."
+  },
+  "prototype": {
+    "prototypecontent": "The high-fidelity prototype followed the same user flow as the low-fidelity prototype, including design changes made after the usability study."
+  },
+  "mockups": {
+    "mockupscontent": "If you'd like to see all key mockups, you will find an image in this site saying 'Full Case Study'."
   }
 }

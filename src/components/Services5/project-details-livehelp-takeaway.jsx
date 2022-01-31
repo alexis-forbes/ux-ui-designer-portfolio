@@ -1,7 +1,7 @@
 import React from "react";
-import featuresDetails from "../../data/sections/project-details-takeaway.json";
+import featuresDetails from "../../data/sections/project-details-livehelp-takeaway.json";
 
-const ProjectDetailsTakeaway = () => {
+const ProjectDetailsLiveHelpTakaway = () => {
     return (
         <section className="services box lficon section-padding position-re">
             <div className="container">
@@ -47,4 +47,4 @@ const ProjectDetailsTakeaway = () => {
     );
 };
 
-export default ProjectDetailsTakeaway;
+export default ProjectDetailsLiveHelpTakaway;

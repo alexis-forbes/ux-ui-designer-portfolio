@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-target",
+    "title": "Impact",
+    "content": "Impact: Users shared that the app made preventing death from a fall or cardiac arrest through immediate assistance seem like something that could really help reduce mortality.",
+    "quote": "A quote from peer comments: 'LIVEHELP app helps you feel more confident when hiking in the mountains, as well as track your personal health in an easy and engaging way'."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-study",
+    "title": "What I learned",
+    "content": "I learned that even though the problem I was trying to solve was a big one, diligently going through each step of the design process and aligning with specific user needs helped me come up with solutions that were both feasible and useful."
+  }
+]

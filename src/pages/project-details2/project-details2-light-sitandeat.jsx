@@ -19,7 +19,7 @@ import ProjectDetailsColumns from "../../components/Services5/project-details-co
 import ProjectDetailsOneTwoThree from "../../components/Services2/project-details-onetwothree";
 import ProjectDetailsFindings from "../../components/Services2/project-details-findings";
 import ProjectDetailsAccessibility from "../../components/Services2/project-details-accessibility";
-import ProjectDetailsTakaway from "../../components/Services5/project-details-takeaway";
+import ProjectDetailsTakeaway from "../../components/Services5/project-details-takeaway";
 import ProjectGalleryLandscape11 from "../../components/Project-gallery/project-gallery-landscape11";
 
 
@@ -62,9 +62,9 @@ const ProjectDetails2Light = () => {
                 <ProjectGalleryLandscape />
                 <ProjectDescriptionSitAndEatPrototype projectDescriptionDataSitAndEatPrototype={ProjectDate.prototype} />
                 <ProjectGalleryLandscape11 />
-                <ProjectDetailsAccessibility />
-                <ProjectDetailsTakaway />
                 <NextProjectSitAndEat />
+                <ProjectDetailsAccessibility />
+                <ProjectDetailsTakeaway />
                 <Footer />
             </div>
         </LightTheme>

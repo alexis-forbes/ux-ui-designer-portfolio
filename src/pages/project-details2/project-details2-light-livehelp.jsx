@@ -7,12 +7,21 @@ import ProjectDate from "../../data/project-details2-livehelp.json";
 import ProjectIntroductionLiveHelp from "../../components/Project-introduction/project-introduction-livehelp";
 import ProjectGalleryLiveHelp from "../../components/Project-gallery/project-gallery-livehelp";
 import ProjectDescriptionLiveHelp from "../../components/Project-description/project-description-livehelp";
+import ProjectDescriptionLiveHelpDesigns from "../../components/Project-description/project-description-livehelp-designs";
+import ProjectDetailsColumnsLiveHelp from "../../components/Services5/project-details-columns-livehelp";
+import ProjectDescriptionLiveHelpExtraBefore from "../../components/Project-description/project-description-livehelp-extrabefore";
+import ProjectDescriptionLiveHelpPrototype from "../../components/Project-description/project-description-livehelp-prototype";
+import ProjectDescriptionLiveHelpMockups from "../../components/Project-description/project-description-livehelp-mockups";
+import ProjectDetailsColumnsLiveHelpTakeaway from "../../components/Services5/project-details-columns-livehelp-takeaway";
 import ProjectVideo from "../../components/Project-video/project-video";
 import NextProjectLiveHelp from "../../components/Next-project/next-project-livehelp";
+import NextProjectLiveHelpCaseStudy from "../../components/Next-project/next-project-livehelp-casestudy";
 import ProjectGalleryLandscape3 from "../../components/Project-gallery/project-gallery-landscape3";
 import ProjectGalleryLandscape4 from "../../components/Project-gallery/project-gallery-landscape4";
 import ProjectGalleryLandscape5 from "../../components/Project-gallery/project-gallery-landscape5";
 import ProjectGalleryLiveHelp1 from "../../components/Project-gallery/project-gallery-livehelp1";
+import ProjectDetailsLiveHelp from "../../components/Services2/project-details-livehelp";
+import ProjectDetailsLiveHelpTakaway from "../../components/Services5/project-details-livehelp-takeaway";
 
 const ProjectDetails2Light = () => {
     const navbarRef = React.useRef(null);
@@ -41,13 +50,21 @@ const ProjectDetails2Light = () => {
                 <ProjectDetails2HeaderLiveHelp projectHeaderDataLiveHelp={ProjectDate} />
                 <ProjectIntroductionLiveHelp projectIntroductionDataLiveHelp={ProjectDate.intro} />
                 <ProjectGalleryLandscape3 />
-                <ProjectGalleryLandscape4 />
-                <ProjectGalleryLandscape5 />
-                <ProjectGalleryLiveHelp />
+                <ProjectDetailsColumnsLiveHelp />
                 <ProjectDescriptionLiveHelp projectDescriptionDataLiveHelp={ProjectDate.description} />
+                <NextProjectLiveHelpCaseStudy />
+                <ProjectDescriptionLiveHelpDesigns projectDescriptionDataLiveHelp={ProjectDate.extra} />
+                <ProjectGalleryLandscape4 />
+                <ProjectDescriptionLiveHelpExtraBefore projectDescriptionDataLiveHelp={ProjectDate.extrabefore} />
+                <ProjectDescriptionLiveHelpMockups projectDescriptionDataLiveHelp={ProjectDate.mockups} />
+                <ProjectGalleryLiveHelp />
                 <ProjectGalleryLiveHelp1 />
+                <ProjectDescriptionLiveHelpPrototype projectDescriptionDataLiveHelp={ProjectDate.prototype} />
+                <ProjectGalleryLandscape5 />
                 {/*<ProjectVideo projectVideoDate={ProjectDate} /> */}
                 <NextProjectLiveHelp />
+                <ProjectDetailsLiveHelp />
+                <ProjectDetailsLiveHelpTakaway />
                 <Footer />
             </div>
         </LightTheme>

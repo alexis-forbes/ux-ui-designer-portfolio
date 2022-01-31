@@ -1,6 +1,6 @@
 import React from "react";
 
-const NextProjectLiveHelp = () => {
+const NextProjectLiveHelpCaseStudy = () => {
     return (
         <section className="next-prog section-padding">
             <div className="container">
@@ -17,8 +17,8 @@ const NextProjectLiveHelp = () => {
                                 <div className="caption ontop valign">
                                     <div className="o-hidden full-width">
                                         <h1>
-                                            <a href="https://bit.ly/3IPvyCp">
-                                                <div className="stroke">GO TO PROTOTYPE.</div>
+                                            <a href="https://catalanpololaura.wixsite.com/ux-uidesign/livehelp">
+                                                <div className="stroke">FULL CASE STUDY.</div>
                                             </a>
                                         </h1>
                                     </div>
@@ -27,7 +27,7 @@ const NextProjectLiveHelp = () => {
                                     <div className="cap full-width">
                                         <h1>
                                             <a href="">
-                                                <span>GO TO PROTOTYPE.</span>
+                                                <span>FULL CASE STUDY.</span>
                                             </a>
                                         </h1>
                                     </div>
@@ -41,4 +41,4 @@ const NextProjectLiveHelp = () => {
     );
 };
 
-export default NextProjectLiveHelp;
+export default NextProjectLiveHelpCaseStudy;

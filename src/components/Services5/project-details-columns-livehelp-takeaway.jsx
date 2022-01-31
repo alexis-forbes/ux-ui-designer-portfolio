@@ -1,19 +1,10 @@
 import React from "react";
-import featuresDetails from "../../data/sections/project-details-takeaway.json";
+import featuresDetails from "../../data/sections/project-details-columns-livehelp-takeaway.json";
 
-const ProjectDetailsTakeaway = () => {
+const ProjectDetailsColumnsLiveHelpTakeaway = () => {
     return (
         <section className="services box lficon section-padding position-re">
             <div className="container">
-                <div className="row justify-content-center">
-                    <div className="col-lg-8 col-md-10">
-                        <div className="sec-head  text-center">
-                            <h6 className="wow fadeIn" data-wow-delay=".2s">
-                                Takeaway
-                            </h6>
-                        </div>
-                    </div>
-                </div>
                 <div className="row">
                     {featuresDetails.map((item, index) => (
                         <div
@@ -36,7 +27,6 @@ const ProjectDetailsTakeaway = () => {
                                 <div className="cont">
                                     <h6>{item.title}</h6>
                                     <p>{item.content}</p>
-                                    <p>{item.quote}</p>
                                 </div>
                             </div>
                         </div>
@@ -47,4 +37,4 @@ const ProjectDetailsTakeaway = () => {
     );
 };
 
-export default ProjectDetailsTakeaway;
+export default ProjectDetailsColumnsLiveHelpTakeaway;
