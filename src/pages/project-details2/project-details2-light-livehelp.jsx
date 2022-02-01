@@ -19,6 +19,7 @@ import NextProjectLiveHelpCaseStudy from "../../components/Next-project/next-pro
 import ProjectGalleryLandscape3 from "../../components/Project-gallery/project-gallery-landscape3";
 import ProjectGalleryLandscape4 from "../../components/Project-gallery/project-gallery-landscape4";
 import ProjectGalleryLandscape5 from "../../components/Project-gallery/project-gallery-landscape5";
+import ProjectGalleryLandscape12 from "../../components/Project-gallery/project-gallery-landscape12";
 import ProjectGalleryLiveHelp1 from "../../components/Project-gallery/project-gallery-livehelp1";
 import ProjectDetailsLiveHelp from "../../components/Services2/project-details-livehelp";
 import ProjectDetailsLiveHelpTakaway from "../../components/Services5/project-details-livehelp-takeaway";
@@ -56,6 +57,7 @@ const ProjectDetails2Light = () => {
                 <ProjectDescriptionLiveHelpDesigns projectDescriptionDataLiveHelp={ProjectDate.extra} />
                 <ProjectGalleryLandscape4 />
                 <ProjectDescriptionLiveHelpExtraBefore projectDescriptionDataLiveHelp={ProjectDate.extrabefore} />
+                <ProjectGalleryLandscape12 />
                 <ProjectDescriptionLiveHelpMockups projectDescriptionDataLiveHelp={ProjectDate.mockups} />
                 <ProjectGalleryLiveHelp />
                 <ProjectGalleryLiveHelp1 />

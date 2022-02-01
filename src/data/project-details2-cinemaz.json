@@ -36,23 +36,15 @@
     }
   ],
   "intro": {
-    "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part.",
+    "content": "Cinemaz is an app that makes it easy for users (tourists, locals, etc.) to find a cinema near their location, see the billboard, upcoming events or news from the cultural sector, buy tickets and choose their seat; They can also order food so that when you get to the movies the kitchen starts up so you don't have to wait in the restaurant. This app has a list and map of Cinemaz theaters in every city in Sweden with pictures and trailers of the movies, food and drinks..",
     "spmList": [
       {
         "id": 1,
-        "name": "Aenean sollicitudin"
+        "name": "Project Duration:"
       },
       {
         "id": 2,
-        "name": "lorem quis bibendum auctor"
-      },
-      {
-        "id": 31,
-        "name": "nisi elit conseq uat ipsum"
-      },
-      {
-        "id": 4,
-        "name": "nec sagittis sem nibh id elit"
+        "name": "Januray 2021 to September 2021"
       }
     ]
   },
@@ -64,6 +56,15 @@
     "/img/portfolio/project2/7.jpg"
   ],
   "description": {
-    "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part."
+    "content": "I conducted interviews and created empathy maps to understand to users that I am design for and your needs. A core group of users identified through research. They were young people and adults who went to the movies in their free time with their friends or partners. This group of users confirmed initial assumptions about Cinemaz customers, but the investigation. It also revealed that the price of the cinema was not the only factor that limited users to go to the cinema, but that after the pandemic they needed to know the availability of seats in the room. Other user problems included schedules, cinematographic genres, theatrical or musical events, interest in learning about other cultures through audiovisual culture. It's hard to get an affordable ticket price when you go with the whole family."
+  },
+  "mockups": {
+    "mockupcontent": "The first designs allowed some customization. But after the usability studies I added additional options like the main image that gives you direct access to the list and map of all theaters. I also revised the layout so that users see all the options in the menu when they first click on the screen. In addition, a bar was added at the bottom of the page with the logos of social networks and access to terms and conditions, contact and privacy policy."
+  },
+  "extra": {
+    "extracontent": "The second usability study revealed frustration with the flow of booking conditions. To streamline this flow, I added a summary screen with all the purchase information. In the usability study revealed the user's need for why it was better to buy tickets with Cinemaz than with another application? That is why the explanatory logos of the advantage of buying with us were added."
+  },
+  "prototype": {
+    "prototypecontent": "The final hi-fi prototype featured cleaner flows of users to buy tickets and reserve seats. It also met the needs of the user by having the option of the order summary to obtain the purchase information done."
   }
 }

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-tools",
+    "title": "The Problem",
+    "content": "People who love cinema and culture who like to go to the cinema in their free time, be informed of the latest news from the sector and the new films that are on the billboard."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-id",
+    "title": "My Role",
+    "content": "UX designer designing an application / web for Cinemaz from conception to delivery."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-target",
+    "title": "The Goal",
+    "content": "Design a Cinemaz web / app that allows the user to buy tickets and choose their seat in a closer cinema. You can also select the menu to eat and it will be brought to your seat."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-menu",
+    "title": "Responsabilities",
+    "content": "Conducting interviews, paper and digital wireframing, low-fidelity and high-fidelity prototyping, usability studies, accessibility accounting, and design iteration."
+  }
+]

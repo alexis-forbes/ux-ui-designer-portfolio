@@ -1,6 +1,6 @@
 import React from "react";
 
-const NextProjectCinemaz = () => {
+const NextProjectCinemazCaseStudy = () => {
     return (
         <section className="next-prog section-padding">
             <div className="container">
@@ -17,8 +17,8 @@ const NextProjectCinemaz = () => {
                                 <div className="caption ontop valign">
                                     <div className="o-hidden full-width">
                                         <h1>
-                                            <a href="https://xd.adobe.com/view/d203ae5f-1c8b-42c3-9a49-29ed9ab51748-8750/">
-                                                <div className="stroke">GO TO PROTOTYPE.</div>
+                                            <a href="https://catalanpololaura.wixsite.com/ux-uidesign/cinemaz">
+                                                <div className="stroke">FULL CASE STUDY.</div>
                                             </a>
                                         </h1>
                                     </div>
@@ -27,7 +27,7 @@ const NextProjectCinemaz = () => {
                                     <div className="cap full-width">
                                         <h1>
                                             <a href="">
-                                                <span>GO TO PROTOTYPE.</span>
+                                                <span>FULL CASE STUDY.</span>
                                             </a>
                                         </h1>
                                     </div>
@@ -41,4 +41,4 @@ const NextProjectCinemaz = () => {
     );
 };
 
-export default NextProjectCinemaz;
+export default NextProjectCinemazCaseStudy;
