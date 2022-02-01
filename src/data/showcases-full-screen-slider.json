@@ -1,26 +1,74 @@
 [
-    {
-        "id": 1,
-        "title": {"first": "Midnight", "second": "Snack"},
-        "image": "/img/portfolio/full/1.jpg",
-        "sub": "Design"
-    },
-    {
-      "id": 2,
-      "title": { "first": "Fisherman", "second": "Portrait" },
-      "image": "/img/portfolio/full/2.jpg",
-      "sub": "Design"
-    },
-    {
-      "id": 3,
-      "title": { "first": "Tribos", "second": "Urbanas" },
-      "image": "/img/portfolio/full/3.jpg",
-      "sub": "Design"
-    },
-    {
-      "id": 4,
-      "title": { "first": "Monsoon", "second": "in the city" },
-      "image": "/img/portfolio/full/3.jpg",
-      "sub": "Design"
-    }
+  {
+    "id": 1,
+    "title": { "first": "Poster", "second": "Music Event" },
+    "image": "/img/design/cartel-roots-3.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Poster", "second": "Music Event" },
+    "image": "/img/design/cartel-root2.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 3,
+    "title": { "first": "Poster", "second": "Music Event" },
+    "image": "/img/design/cartel-Roots.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 4,
+    "title": { "first": "Packaging", "second": "Campaign" },
+    "image": "/img/design/mockup-bolsa-ADAPTADO.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 5,
+    "title": { "first": "Poster", "second": "Campaign" },
+    "image": "/img/design/mockup-carteles-ADAPTADO.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 6,
+    "title": { "first": "Flyer", "second": "Conference Event" },
+    "image": "/img/design/mockup-flyer-ADAPTADO.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 7,
+    "title": { "first": "Product", "second": "Design" },
+    "image": "/img/design/mockup-mascarillas-ADAPTACION.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 8,
+    "title": { "first": "Children", "second": "Books" },
+    "image": "/img/design/mockup-pasatiempos-ADAPTACION.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 9,
+    "title": { "first": "Children", "second": "Books" },
+    "image": "/img/design/mockup-pasatiempos-new.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 10,
+    "title": { "first": "Business", "second": "Portfolio" },
+    "image": "/img/design/mockup-portfolio-ADAPTACION.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 11,
+    "title": { "first": "Tryptic", "second": "Design" },
+    "image": "/img/design/MOCKUP-TRIPTICO-ADAPTADO.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 12,
+    "title": { "first": "Wine", "second": "Product Design" },
+    "image": "/img/design/mockup-VINOS-ADAPTACION.jpg",
+    "sub": "Design"
+  }
 ]

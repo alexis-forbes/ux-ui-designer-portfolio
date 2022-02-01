@@ -91,30 +91,30 @@ const ShowcasesFullScreen = () => {
                       <div className="col-lg-12">
                         <div className="caption">
                           <h1>
-                            <Link href="/project-details2/project-details2-dark">
-                              <a>
-                                <div
-                                  className="stroke"
-                                  data-swiper-parallax="-2000"
-                                >
-                                  {slide.title.first}
-                                </div>
-                                <span data-swiper-parallax="-5000">
-                                  {slide.title.second}
-                                </span>
-                              </a>
-                            </Link>
+
+                            <a>
+                              <div
+                                className="stroke"
+                                data-swiper-parallax="-2000"
+                              >
+                                {slide.title.first}
+                              </div>
+                              <span data-swiper-parallax="-5000">
+                                {slide.title.second}
+                              </span>
+                            </a>
                             <div className="bord"></div>
                           </h1>
+                          {/*
                           <div className="discover">
-                            <Link href="/project-details2/project-details2-dark">
+                            
                               <a>
                                 <span>
                                   Explore <br /> More
                                 </span>
                               </a>
-                            </Link>
                           </div>
+                          */}
                         </div>
                       </div>
                     </div>

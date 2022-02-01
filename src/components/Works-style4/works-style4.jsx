@@ -194,15 +194,15 @@ const WorksStyle4 = () => {
 
             {/*
             <div
-              className="col-md-6 items brand wow fadeInUp"
+              className="col-md-6 items graphic wow fadeInUp"
               data-wow-delay=".4s"
             >
               <div className="item-img">
                 <div className="cont">
-                  <h6>Creative Mobile App</h6>
-                  <p>Ui / Ux creative mobile app design</p>
+                  <h6>Roots</h6>
+                  <p>Content Creator & Graphic Designer</p>
                 </div>
-                <Link href="/project-details2/project-details2-dark">
+                <Link href="/showcase/showcase-light">
                   <a className="rota">
                     <img src="/img/portfolio/freelancer/5.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
@@ -222,28 +222,27 @@ const WorksStyle4 = () => {
               </div>
             </div>
             */}
-            {/*
             <div
-              className="col-md-6 items brand wow fadeInUp"
+              className="col-md-6 items graphic wow fadeInUp"
               data-wow-delay=".4s"
             >
               <div className="item-img">
                 <div className="cont">
-                  <h6>Creative Mobile App</h6>
-                  <p>Ui / Ux creative mobile app design</p>
+                  <h6>Content Creator & Graphic Designer</h6>
+                  <p>Go to Full Screen Graphic Design projects</p>
                 </div>
-                <Link href="/project-details2/project-details2-dark">
+                <Link href="/showcase/showcase-light">
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/6.jpg" alt="image" />
+                    <img src="/img/design/cartel-roots-3.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
                 <div className="tags">
                   <span>
-                    <a href="#0">App</a>
+                    <a href="#0">Graphic</a>
                   </span>
                   <span>
-                    <a href="#0">Fitnes</a>
+                    <a href="#0">Design</a>
                   </span>
                   <span>
                     <a href="#0">Creative</a>
@@ -251,7 +250,6 @@ const WorksStyle4 = () => {
                 </div>
               </div>
             </div>
-            */}
           </div>
         </div>
       </div>

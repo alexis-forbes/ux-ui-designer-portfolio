@@ -12,7 +12,6 @@ import ProjectDetailsColumnsLiveHelp from "../../components/Services5/project-de
 import ProjectDescriptionLiveHelpExtraBefore from "../../components/Project-description/project-description-livehelp-extrabefore";
 import ProjectDescriptionLiveHelpPrototype from "../../components/Project-description/project-description-livehelp-prototype";
 import ProjectDescriptionLiveHelpMockups from "../../components/Project-description/project-description-livehelp-mockups";
-import ProjectDetailsColumnsLiveHelpTakeaway from "../../components/Services5/project-details-columns-livehelp-takeaway";
 import ProjectVideo from "../../components/Project-video/project-video";
 import NextProjectLiveHelp from "../../components/Next-project/next-project-livehelp";
 import NextProjectLiveHelpCaseStudy from "../../components/Next-project/next-project-livehelp-casestudy";
