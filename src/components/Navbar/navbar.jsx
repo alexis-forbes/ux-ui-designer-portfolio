@@ -33,7 +33,7 @@ const Navbar = ({ lr, nr, theme }) => {
         }`}
     >
       <div className="container">
-        <Link href="/homepage/home7-light">
+        <Link href="/homepage/homepage">
           <a className="nav-item">
             Laura Catalán
           </a>
@@ -73,7 +73,7 @@ const Navbar = ({ lr, nr, theme }) => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <Link href="/homepage/home7-light">
+              <Link href="/homepage/homepage">
                 <a className="nav-link">Home</a>
               </Link>
             </li>

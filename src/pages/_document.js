@@ -14,13 +14,10 @@ class MyDocument extends Document {
         <Head>
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta
-            name="keywords"
-            content="HTML5 Template Vie onepage themeforest"
-          />
+          <meta name="keywords" content="Laura Catalán UX UI Designer" />
           <meta
             name="description"
-            content="Vie - Onepage Multi-Purpose HTML5 Template"
+            content="Laura Catalán - UX/UI Designer Porfolio"
           />
           <meta name="author" content="" />
           <link rel="shortcut icon" href="/img/favicon.ico" />

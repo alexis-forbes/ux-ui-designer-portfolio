@@ -70,5 +70,29 @@
     "title": { "first": "Wine", "second": "Product Design" },
     "image": "/img/design/mockup-VINOS-ADAPTACION.jpg",
     "sub": "Design"
+  },
+  {
+    "id": 13,
+    "title": { "first": "Poster", "second": "Campaign" },
+    "image": "/img/design/MOCKUP-CARTEL-HORIZONTAL-2.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 14,
+    "title": { "first": "Poster", "second": "Campaign" },
+    "image": "/img/design/MOCKUP-CARTEL-HORIZONTAL.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 15,
+    "title": { "first": "Flyer", "second": "Campaign" },
+    "image": "/img/design/MOCKUP-HORARIOS-VG.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 16,
+    "title": { "first": "Poster", "second": "Mockup" },
+    "image": "/img/design/MOCKUP-VG-VERTICALES.jpg",
+    "sub": "Design"
   }
 ]

@@ -224,7 +224,7 @@ const WorksStyle4 = () => {
             */}
             <div
               className="col-md-6 items graphic wow fadeInUp"
-              data-wow-delay=".4s"
+              data-wow-delay=".2s"
             >
               <div className="item-img">
                 <div className="cont">

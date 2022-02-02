@@ -81,7 +81,7 @@ const Footer = ({ hideBGCOLOR }) => {
           <div className="col-lg-4">
             <div className="item">
               <div className="logo">
-                <Link href="/homepage/home7-light">
+                <Link href="/homepage/homepage">
                   <a className="nav-item">
                     Laura Catalán
                   </a>
