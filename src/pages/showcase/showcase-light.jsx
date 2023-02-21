@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "../../components/Navbar/navbar";
-import NavbarFullMenu from "../../components/Navbar-full-menu/navbar.full-menu";
 import ShowcasesFullScreen from "../../components/Showcases-full-screen/showcases-full-screen";
 import LightTheme from "../../layouts/Dark";
 

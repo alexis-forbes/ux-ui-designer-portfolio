@@ -162,66 +162,6 @@ const WorksStyle4 = () => {
                 </div>
               </div>
             </div>
-
-            <div
-              className="col-md-6 items ux wow fadeInUp"
-              data-wow-delay=".4s"
-            >
-              <div className="item-img">
-                <div className="cont">
-                  <h6>ANIMATED ILLUSTRATIONS</h6>
-                  <p>Work in progress.</p>
-                </div>
-                <Link href="">
-                  <a className="rota">
-                    <img src="https://media.giphy.com/media/ekpxga8QRJVFUBxQeL/giphy.gif" alt="image" />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
-                <div className="tags">
-                  <span>
-                    <a href="#0">App</a>
-                  </span>
-                  <span>
-                    <a href="#0">Animations</a>
-                  </span>
-                  <span>
-                    <a href="#0">Interactive</a>
-                  </span>
-                </div>
-              </div>
-            </div>
-
-            {/*
-            <div
-              className="col-md-6 items graphic wow fadeInUp"
-              data-wow-delay=".4s"
-            >
-              <div className="item-img">
-                <div className="cont">
-                  <h6>Roots</h6>
-                  <p>Content Creator & Graphic Designer</p>
-                </div>
-                <Link href="/showcase/showcase-light">
-                  <a className="rota">
-                    <img src="/img/portfolio/freelancer/5.jpg" alt="image" />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
-                <div className="tags">
-                  <span>
-                    <a href="#0">App</a>
-                  </span>
-                  <span>
-                    <a href="#0">Fitnes</a>
-                  </span>
-                  <span>
-                    <a href="#0">Creative</a>
-                  </span>
-                </div>
-              </div>
-            </div>
-            */}
             <div
               className="col-md-6 items graphic wow fadeInUp"
               data-wow-delay=".2s"
@@ -232,7 +172,7 @@ const WorksStyle4 = () => {
                   <p>Go to Full Screen Graphic Design projects</p>
                 </div>
                 <Link href="/showcase/showcase-light">
-                  <a className="rota">
+                  <a >
                     <img src="/img/design/cartel-roots-3.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
